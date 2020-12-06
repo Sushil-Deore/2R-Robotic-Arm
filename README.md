@@ -2,8 +2,6 @@
 
 To create a simulation of forward Kinematic motion of 2R robotic arm using python 3 
 
-Project Title: 2R Robotic Arm Simulator using Python 
-
 Aim: To create a simulation of forward Kinematic motion of 2R robotic arm using python 3 
 
 Description:
