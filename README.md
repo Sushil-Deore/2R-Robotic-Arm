@@ -28,3 +28,7 @@ y2 = y1 + L2 * sin (θ2)
 •	For different values 'θ1' and 'θ2', the different simulations will be plotted. 
 By saving simulation frames for different values of 'θ1' and 'θ2'. 
 Stitching will be done on frames byusing ImageMagick, simulation for 2R Robotic Arm will be created. 
+
+Result:
+
+Output animation : https://www.youtube.com/watch?v=eUouMgW4a3c&t=10s
