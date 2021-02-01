@@ -4,6 +4,9 @@
 import math 
 import matplotlib.pyplot as plt 
 
+import warnings
+warnings.filterwarnings('ignore')
+
 # For number of iterations of theta 1 and theta2
 
 n_theta = 10
