@@ -1,8 +1,8 @@
 # 2R-Robotic-Arm
 
-To create a simulation of forward Kinematic motion of 2R robotic arm using python 3 
+To create a simulation of forward Kinematic motion of 2R robotic arm using python 3.
 
-Aim: To create a simulation of forward Kinematic motion of 2R robotic arm using python 3 
+Aim: To create a simulation of forward Kinematic motion of 2R robotic arm using python 3.
 
 Description:
 1.	Kinematics: A Branch of mechanics that describe the motion of bodies without considering forces.
